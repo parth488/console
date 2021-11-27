@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="737" height="23" viewBox="-142 142 737 23" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 226.33 153)" id="Kr64BmqCKsSjCWZOj3EEq"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-362.5, -5.5)" d="M 0 0 L 725 0 L 725 11 L 0 11 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.14 0 0 0.47 101.79 152.88)" id="trc_led"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,1,244); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-10.85, -9)" d="M 0 0 L 21.7087 0 L 21.7087 18 L 0 18 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.14 0 0 0.47 281.43 152.88)" id="esc_led"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,1,244); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-10.85, -9)" d="M 0 0 L 21.7087 0 L 21.7087 18 L 0 18 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.57 0 0 0.47 454.96 152.88)" id="ign_on_led"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,234,12); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M -10.85435 -9 L 10.85435 -9 L 10.85435 9 L -10.85435 9 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.14 0 0 0.47 -80.04 152.88)" id="abs_led"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,1,244); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-10.85, -9)" d="M 0 0 L 21.7087 0 L 21.7087 18 L 0 18 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.57 0 0 0.47 478.36 152.74)" id="ign_off_led"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,7,7); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M -10.85435 -9 L 10.85435 -9 L 10.85435 9 L -10.85435 9 z" stroke-linecap="round" />
+</g>
+</svg>
